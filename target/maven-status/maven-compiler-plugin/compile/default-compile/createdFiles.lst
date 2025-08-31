@@ -1,0 +1,6 @@
+com\juaracoding\swagmobile\screens\InventoryScreen.class
+com\juaracoding\swagmobile\screens\LoginScreen.class
+com\juaracoding\swagmobile\utils\GestureUtil.class
+com\juaracoding\swagmobile\App.class
+com\juaracoding\swagmobile\screens\Product01Page.class
+com\juaracoding\swagmobile\utils\DriverUtil.class
